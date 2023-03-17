@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "name": "processo-seletico",
+  "version": "1.0.0",
+  "main": "FirstQuestion.js",
+  "scripts": {
+    "start": "nodemon ./Processo_Seletivo/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
